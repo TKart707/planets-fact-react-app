@@ -14,7 +14,7 @@
 <p>This is a planets fact app. Interesting information about 8 planets such as overview, structure, surface is collected here. The app is multi-page, navigable and responsive.</p>
 <h3 id="links">Links</h3>
     <ul>
-        <li>Live Site URL: <a href="https://tkart707-planets-fact-app.netlify.app/Mercury" target="_blank">Planets Fact App</a></li>
+        <li>Live Site URL: <a href="https://tkart707-planets-fact-app.netlify.app/" target="_blank">Planets Fact App</a></li>
     </ul>
 <h3 id="built-with">Built with</h3>
     <ul>
